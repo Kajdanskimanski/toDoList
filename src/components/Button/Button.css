@@ -1,0 +1,5 @@
+.button{
+background: aqua;
+  display: flex;
+  min-width: 150px;
+}
